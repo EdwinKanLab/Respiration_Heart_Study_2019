@@ -1,6 +1,5 @@
 # Respiration and Heart Study: 2019
----------------------------------------------------------------------------------------
-Code for data collection using wearable radio frequency sensor at thorax and abdomen.
+*Code for data collection using wearable radio frequency sensor at thorax and abdomen.*
 
 ## Hardware & Software
 - Ettus USRP B200/B200mini
