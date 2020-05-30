@@ -4,3 +4,6 @@ Code for data collection using wearable radio frequency sensor at thorax and abd
 ## Hardware & Software
 Ettus USRP B200/B200mini
 NI LabVIEW 2016
+
+## Dependencies
+Sound instructions can be provided on request.
